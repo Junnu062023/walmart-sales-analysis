@@ -36,7 +36,7 @@ Edit.
 
 
 ## 👩‍💻 Author
-**[Your Name]** – Aspiring Data Analyst  
+**[Krishnaveni]** – Aspiring Data Analyst  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/yourprofile)  
 🔗 [GitHub Portfolio](https://github.com/YourUsername)
 
